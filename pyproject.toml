@@ -1,0 +1,16 @@
+[project]
+name = "finance-data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi-mcp>=0.4.0",
+    "fastapi[standard]>=0.116.0",
+    "financetoolkit>=2.0.4",
+    "uvicorn>=0.35.0",
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.12.4",
+    "yfinance>=0.2.63",
+]

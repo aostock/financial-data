@@ -1,0 +1,117 @@
+[
+  {
+    "id": "a54fde07-20d5-4883-b9a9-0a3b77f02781",
+    "content_type": "STORY",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures retreat after Trump orders sweeping global tariffs",
+    "description": "",
+    "summary": "Markets are assessing the reshaped US trade landscape after Trump on Thursday laid out steep new tariffs for dozens of countries.",
+    "pub_date": "2025-07-31T23:04:34Z",
+    "display_time": "2025-08-01T07:45:03Z",
+    "is_hosted": true,
+    "bypass_modal": false,
+    "preview_url": null,
+    "thumbnail": {
+      "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2025-07/26e13480-5cb3-11f0-a0fd-bdfc142f067e",
+      "originalWidth": 6100,
+      "originalHeight": 4334,
+      "caption": "",
+      "resolutions": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/KUNHDOQ4WqoSSYfx4snjgg--~B/aD00MzM0O3c9NjEwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2025-07/26e13480-5cb3-11f0-a0fd-bdfc142f067e",
+          "width": 6100,
+          "height": 4334,
+          "tag": "original"
+        },
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/UjWSem5dWc3eRM3gWROC_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/26e13480-5cb3-11f0-a0fd-bdfc142f067e",
+          "width": 170,
+          "height": 128,
+          "tag": "170x128"
+        }
+      ]
+    },
+    "provider": {
+      "displayName": "Yahoo Finance",
+      "url": "http://finance.yahoo.com/"
+    },
+    "canonical_url": {
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-retreat-after-trump-orders-sweeping-global-tariffs-230434944.html",
+      "site": "finance",
+      "region": "US",
+      "lang": "en-US"
+    },
+    "click_through_url": {
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-retreat-after-trump-orders-sweeping-global-tariffs-230434944.html",
+      "site": "finance",
+      "region": "US",
+      "lang": "en-US"
+    },
+    "metadata": {
+      "editorsPick": true
+    },
+    "finance": {
+      "premiumFinance": {
+        "isPremiumNews": false,
+        "isPremiumFreeNews": false
+      }
+    },
+    "storyline": {
+      "storylineItems": [
+        {
+          "content": {
+            "id": "4d8b070f-d8ff-4411-868a-b6fe202845eb",
+            "contentType": "STORY",
+            "isHosted": true,
+            "title": "Earnings live: Apple tops estimates, Amazon stock slips, Reddit surges",
+            "thumbnail": {
+              "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2025-07/fb68ef60-6e2c-11f0-9ffe-9184d24800c5",
+              "originalWidth": 8160,
+              "originalHeight": 6113,
+              "caption": "",
+              "resolutions": null
+            },
+            "provider": {
+              "displayName": "Yahoo Finance",
+              "sourceId": "yahoofinance.com"
+            },
+            "previewUrl": null,
+            "providerContentUrl": "",
+            "canonicalUrl": {
+              "url": "https://finance.yahoo.com/news/live/earnings-live-apple-tops-estimates-amazon-stock-slips-reddit-surges-205102706.html"
+            },
+            "clickThroughUrl": {
+              "url": "https://finance.yahoo.com/news/live/earnings-live-apple-tops-estimates-amazon-stock-slips-reddit-surges-205102706.html"
+            }
+          }
+        },
+        {
+          "content": {
+            "id": "77a58a8f-eb06-4ac5-877b-3849d4bd5976",
+            "contentType": "STORY",
+            "isHosted": true,
+            "title": "Stock market today: Dow, S&P 500, Nasdaq slide to solid month on sour note as Trump's tariff deadline, jobs report loom",
+            "thumbnail": {
+              "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2025-02/93f66960-e49e-11ef-afff-1f351c7370d0",
+              "originalWidth": 4633,
+              "originalHeight": 3089,
+              "caption": "",
+              "resolutions": null
+            },
+            "provider": {
+              "displayName": "Yahoo Finance",
+              "sourceId": "yahoofinance.com"
+            },
+            "previewUrl": null,
+            "providerContentUrl": "",
+            "canonicalUrl": {
+              "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-to-solid-month-on-sour-note-as-trumps-tariff-deadline-jobs-report-loom-200350814.html"
+            },
+            "clickThroughUrl": {
+              "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-to-solid-month-on-sour-note-as-trumps-tariff-deadline-jobs-report-loom-200350814.html"
+            }
+          }
+        }
+      ]
+    }
+  }
+]

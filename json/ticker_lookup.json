@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "AAPL",
+    "exchange": "NMS",
+    "industry_link": "https://finance.yahoo.com/sector/technology",
+    "industry_name": "Technology",
+    "quote_type": "equity",
+    "rank": 44398.0,
+    "regular_market_change": -1.4800000190734863,
+    "regular_market_percent_change": -0.7079629898071289,
+    "regular_market_price": 207.57000732421875,
+    "short_name": "Apple Inc.",
+    "time": "2025-08-01T08:54:09Z"
+  }
+]
