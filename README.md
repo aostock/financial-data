@@ -2,6 +2,8 @@
 
 A FastAPI-based financial data service that provides comprehensive stock market information through RESTful APIs. The service uses Yahoo Finance (yfinance) as the primary data source to retrieve real-time stock information, prices, news, financial statements, and other related data.
 
+This service serves as the data provider for the [financial-agents](https://github.com/aostock/financial-agents) project, supplying all the financial data needed for AI-powered financial analysis and trading agents.
+
 ## Project Overview
 
 This service provides a unified API interface for accessing various types of financial data for stock tickers. It includes built-in caching mechanisms to improve performance and reduce external API calls, along with proper error handling and response formatting.
